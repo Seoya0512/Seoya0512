@@ -1,14 +1,16 @@
-​                                                           **Hello,  my name is Youngseo Lee 👋**
+### <center>Hello,  my name is Youngseo Lee 👋</center>
 
 ___
 
-📚  currently studying **python and data analysis**
 
-👩🏻‍🎓 majored in Technological Systems Management in Undergraduate 
 
-👩‍💻 used to work in the Business Management Department
+📚  Currently studying **python and data analysis**
 
-💛 now hope to work in the **Data Analysis** field 
+👩🏻‍🎓 Majored in Technological Systems Management in Undergraduate 
+
+👩‍💻 Worked in the Business Management Department
+
+💛 Hope to work in the **Data Analysis** field !! 
 
 
 
