@@ -1,8 +1,16 @@
-# Introducing me
+​                                                           **Hello,  my name is Youngseo Lee 👋**
+
+___
+
+📚  currently studying **python and data analysis**
+
+👩🏻‍🎓 majored in Technological Systems Management in Undergraduate 
+
+👩‍💻 used to work in the Business Management Department
+
+💛 now hope to work in the **Data Analysis** field 
 
 
 
-안녕하세요! 이영서 입니다.
 
-Hello,  my name is Youngseo Lee ^_^ 
 
