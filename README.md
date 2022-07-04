@@ -4,7 +4,7 @@ ___
 
 
 
-📚  Currently studying **python and data analysis**
+📚  Currently studying **data analysis**
 
 ​	✔️ 빅데이터 기반 지능형 서비스 개발 수료 (2021. 08 ~ 2021. 12)
 
@@ -14,7 +14,7 @@ ___
 
 👩‍💻 Worked in the Business Management Department
 
-💛 Hope to work in the **Data Analysis** field !! 
+💛 Hope to be in the **Project Management** field !! 
 
 
 
