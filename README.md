@@ -17,8 +17,6 @@ Backend Developer, Youngseo Lee
 <img src="https://img.shields.io/badge/Slack-f9f4f4?style=for-the-badge&logo=Slack&logoColor=4A154B"/> <img src="https://img.shields.io/badge/Trello-f9f4f4?style=for-the-badge&logo=Trello&logoColor=blue"/> <img src="https://img.shields.io/badge/Git-f9f4f4?style=for-the-badge&logo=Git&logoColor=070000"/> <img src="https://img.shields.io/badge/GitHub-f9f4f4?style=for-the-badge&logo=GitHub&logoColor=070000"/> <img src="https://img.shields.io/badge/Notion-f9f4f4?style=for-the-badge&logo=Notion&logoColor=070000"/>
 
 
-### 📍 Status
-![Youngseo Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seoya0512&theme=dracula&show_icons=true)
 
 
 
